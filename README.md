@@ -1,4 +1,4 @@
-# flutter_application_1
+# Messaging App
 
 A new Flutter project.
 
